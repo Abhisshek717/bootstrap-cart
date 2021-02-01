@@ -1,0 +1,39 @@
+{
+     "mobiles":[
+         {
+             "name" : "Nokia 7.2",
+             "image" : "/img/nokia.png",
+             "price" : 16000
+         },
+         {
+             "name" : "ONEPLUS 7T",
+             "image" : "/img/oneplus.png",
+             "price" : 40000
+         },
+         {
+             "name" : "Micromax",
+             "image" : "/img/micromax.png",
+             "price" : 10000
+         },
+         {
+             "name" : "Samsung-A50",
+             "image" : "/img/a50.png",
+             "price" : 20000
+         },
+         {
+             "name" : "Samsung-M30",
+             "image" : "/img/m50.png",
+             "price" : 25000
+         },
+         {
+             "name" : "Samsung-Galaxy",
+             "image" : "/img/vivo.png",
+             "price" : 25000
+         },
+         {
+             "name" : "Samsung-Note",
+             "image" : "/img/note.png",
+             "price" : 25000
+         }
+     ]
+}
